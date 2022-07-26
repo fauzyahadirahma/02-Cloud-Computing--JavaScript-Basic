@@ -1,9 +1,9 @@
 Kampus Merdeka x BANGKIT 2022
 
-# 02 Cloud Computing - JavaScript Basic  
+# 02. Cloud Computing - JavaScript Basic  
 Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Kedua
 
-21 Februari 2022  
+**21 Februari 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Pengenalan JavaScript
     * Pengenalan JavaScript
@@ -12,7 +12,7 @@ Belajar Dasar Pemrograman JavaScript
     * Kenapa Belajar JavaScript
     
 
-22 Februari 2022  
+**22 Februari 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Fundamental JavaScript
     * Pengenalan Fundamentals JavaScript
@@ -27,7 +27,7 @@ Belajar Dasar Pemrograman JavaScript
     * Kuis Coding : Variabel dan Tipe Data
     * Kuis Coding : Logika Operator dan If Else
 
-23 Februari 2022  
+**23 Februari 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Struktur Data
     * Pengenalan Struktur Data
@@ -44,7 +44,7 @@ Belajar Dasar Pemrograman JavaScript
     * Kuis Coding : Array
     * Kuis Coding : Map
 
-24 Februari 2022  
+**24 Februari 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Function
     * Pengenalan Function
@@ -55,7 +55,7 @@ Belajar Dasar Pemrograman JavaScript
     * Closure
     * Kuis Coding : Function
 
-25 Februari 2022  
+**25 Februari 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Object-Oriented Programming (OOP)
     * Pengenalan Object-Oriented Programming (OOP)
@@ -68,7 +68,7 @@ Belajar Dasar Pemrograman JavaScript
     * Built-in Class
     * Kuis Coding: Object Oriented Programming
     
-28 Februari 2022  
+**28 Februari 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Functional Programming
     * Pengenalan Functional Programming
@@ -77,7 +77,7 @@ Belajar Dasar Pemrograman JavaScript
     * Reusable Function
     * Kuis Coding : Functional Programming
 
-1 Maret 2022  
+**1 Maret 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Setup Environment
     * Pengenalan Setup Environment
@@ -88,7 +88,7 @@ Belajar Dasar Pemrograman JavaScript
     * Membuat Project JavaScript
     * Menjalankan Project Node
     
-2 Maret 2022  
+**2 Maret 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Module
     * Pengenalan Module
@@ -97,7 +97,7 @@ Belajar Dasar Pemrograman JavaScript
     * ES6 Module
     * Kuis Coding : Module
 
-3 Maret 2022  
+**3 Maret 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Penanganan Eror
     * Pengenalan Penanganan Eror
@@ -106,7 +106,7 @@ Belajar Dasar Pemrograman JavaScript
     * Custom Error
     * Kuis Coding : Penanganan Eror
 
-4 Maret 2022  
+**4 Maret 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Concurrency
     * Pengenalan Concurrency
@@ -122,7 +122,7 @@ Belajar Dasar Pemrograman JavaScript
     * Async-await
     * Kuis Coding : Concurrency
 
-7 Maret 2022  
+**7 Maret 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Node Package Manager
     * Pengenalan Node Package Manager
@@ -131,7 +131,7 @@ Belajar Dasar Pemrograman JavaScript
     * Using Package
     * Uninstall Package
 
-8 Maret 2022  
+**8 Maret 2022**  
 Belajar Dasar Pemrograman JavaScript
   * JavaScript Testing
     * Pengenalan JavaScript Testing
@@ -139,7 +139,7 @@ Belajar Dasar Pemrograman JavaScript
     * Menulis Kode Pengujian
     * Pengujian Kode
 
-9 Maret 2022  
+**9 Maret 2022**  
 Belajar Dasar Pemrograman JavaScript
   * Penutup
     * Ujian Akhir  
